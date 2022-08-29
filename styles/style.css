@@ -1,0 +1,39 @@
+#site-header{
+	background:#444;
+	color: #fff;
+	padding: 40px 0;
+	text-align:center;
+}
+
+.clearfix::after {
+	display: table;
+	content: '';
+	clear: both;
+}
+
+.content-area{
+	width:80%;
+	float:right; 
+}
+
+.side-area {
+	background: #ccc;
+	width:20%;
+	float:right;
+	padding: 20px 0;
+}
+
+#advertise{
+	text-align:center;
+}
+
+#site-footer{
+	text-align:center;
+	background: #666;
+	color:#fff;
+	padding: 20px 0px
+}
+
+#site-article{
+	padding:20px;
+}
